@@ -79,7 +79,7 @@
     - Display the last 10 products viewed by the user.
     - Include product details, prices, and direct links to the product page.
 10. **Comparison Feature**
-    - Compare up to three products based on their attributes (price, category, ratings, etc.).
+    - Allow users to compare up to three products, but only if the products are from the same category. Comparison will be based on attributes such as price, category, ratings, and other relevant details. If a user attempts to add a product from a different category for comparison, display a warning message indicating that only products from the same category can be compared.
 11. **Responsive Design**
     - Mobile and desktop-friendly interface for all users.
 12. **Scalability**
