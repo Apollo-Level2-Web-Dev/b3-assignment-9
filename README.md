@@ -5,7 +5,7 @@
 **The core of this project is to build a scalable, high-performance system using modern web development technologies. It leverages Node.js and Express.js for the backend, React.js (or Next.js) for the front end, and PostgreSQL for data storage. The application integrates with third-party services for payments and file storage, ensuring a professional, enterprise-grade solution**.
 
 ---
-- **Roles and Responsibilities**
+### **Roles and Responsibilities**
 1. **Admin**
     - Full control over the platform, including monitoring and moderation.
     - Manage users (vendors and customers) with the ability to suspend or delete accounts.
@@ -32,7 +32,7 @@
     - **Receive a warning if attempting to add products from multiple vendors in the cart, with options:**
         - Replace the cart with the new product(s).
         - Retain the current cart and cancel the addition.
-- **Features and Functionalities**
+### **Features and Functionalities**
 1. **Home Page**
     - Display all available products from various vendors.
     - Prioritize products from followed shops for logged-in users.
