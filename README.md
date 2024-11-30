@@ -92,9 +92,9 @@
 - **Technical Requirements**
 1. **Backend**
     - **Authentication:** JWT-based authentication.
-    - **Database:** Relational database (e.g., PostgreSQL/MySQL) for structured data like users, products, orders, and shop follows.
+    - **Database:** Relational database (e.g., PostgreSQL) for structured data like users, products, orders, and shop follows.
     - **Server:** Node.js with Express for handling APIs.
-    - **Image Uploads:** Cloud storage integration for product images (e.g., AWS S3).
+    - **Image Uploads:** Cloud storage integration for product images (e.g., Cloudinary).
 2. **Frontend**
     - **Framework:** React.js or NextJs with state management using Redux or Context API.
 ---
