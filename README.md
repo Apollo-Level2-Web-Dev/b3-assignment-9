@@ -96,7 +96,7 @@
     - **Server:** Node.js with Express for handling APIs. Typescript is optional but highly encouraged.
     - **Image Uploads:** Cloud storage integration for product images (e.g., Cloudinary).
 2. **Frontend**
-    - **Framework:** React.js or NextJs with state management using Redux or Context API. Typescript is optional but highly encouraged
+    - **Framework:** React.js or NextJs with state management using Redux or Context API. Typescript is optional but highly encouraged.
 ---
 **Submission Guidelines:**
 
