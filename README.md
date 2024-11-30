@@ -83,7 +83,12 @@
 11. **Responsive Design**
     - Mobile and desktop-friendly interface for all users.
 12. **Scalability**
-    - Use paginated APIs for lists like order history and products.
+    - Implement paginated APIs for any list-based data to ensure scalability and performance. This includes, but is not limited to:
+       - Order History
+         - For both vendors and customers, paginate the order history to display a limited number of orders per page. Include options to navigate between pages (e.g., next, previous, or specific page numbers).
+       - Product Listings
+         - On the homepage, shop page, and "All Products" page, paginate product listings to handle large datasets efficiently.
+         - Pagination should work seamlessly with filters and search functionality.
 - **Technical Requirements**
 1. **Backend**
     - **Authentication:** JWT-based authentication.
