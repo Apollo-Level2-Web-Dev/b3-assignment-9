@@ -16,7 +16,7 @@
     - Create and manage their shop (name, logo, description, etc.).
     - Add products with attributes such as name, price, category, inventory count, images, and discounts.
     - Duplicate existing products and edit their details for quicker additions.
-    - View and respond to customer reviews and ratings.
+    - View customer reviews and ratings.
     - Manage product inventory (update quantity, edit details, or delete products).
     - View order history specific to their shop.
 3. **User (Customer)**
